@@ -1,3 +1,8 @@
+# KMP-Stable-Sample
+安定版KMPの遊び場。ios, desktop, wasm, server含む
+(主にCompose Multiplatformのテスト)
+
+
 This is a Kotlin Multiplatform project targeting Android, iOS, Web, Desktop, Server.
 
 * `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
